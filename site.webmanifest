@@ -1,0 +1,19 @@
+{
+  "name": "+147 Receitas Natalinas",
+  "short_name": "Receitas Natalinas",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#2b4a35",
+  "background_color": "#f8f3e6",
+  "display": "browser"
+}
